@@ -1,2 +1,3 @@
 name: Cy Lap, Lucky Charm
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
